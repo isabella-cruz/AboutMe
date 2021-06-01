@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Isabella Cruz</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio_description">Hello, this is Isabella and I am an Intern here in the Mobile
+Platform squad.
+\n\nI always was curious about how things happen(If you agree, I always will ask you about
+everything).
+\n\nI started my technological career doing a basic course about hardware and after this, I fell in
+love with the computational world. My first opportunity with this world was working in a support
+team for 2 years and after this time, I finally could work as an auxiliary analyst supporting one
+ERP for more 2 years. But, I always want more, and I decided to do my first graduation: Analyze and
+Development of Systems - It is the place where I found myself. So, I am working hard to learn
+everything about the Androids world, and I am really happy coding, learning (I love to learn, read,
+do courses), it really makes me happy and I cant describe what feelings I feel when I am building
+something by myself.
+\n\nMy biggest dream, it is build something that everyone, in the whole world can use, something
+that changes to better the life who is using it. And, in the future, I want too help people who want
+to learn how to program.
+\n\nAbout my hobbies? I like to study in my free time, read fiction books, go to the gym (do weight
+training with a lot of weight), drink wine (my prefer is merlot grape), watch a lot of TV series
+and movies, get out with my boyfriend and my family to dinner, travel to meet new places, listen to
+great music (techno please) and walk with my little dog, Mel.
+\n\nI hope to build amazing things here at iFood that have a positive impact on peoples lives.</string>
+    <string name="whats_is_your_nickname">Whats is your nickname?</string>
+    <string name="done">Done</string>
+
+</resources>
