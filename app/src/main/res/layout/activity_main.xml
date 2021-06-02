@@ -19,9 +19,9 @@
         style="@style/NameStyle"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:inputType="textPersonName"
         android:ems="10"
         android:hint="@string/whats_is_your_nickname"
-        android:inputType="textPersonName"
         android:textAlignment="center" />
 
     <Button
@@ -40,6 +40,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:textAlignment="center"
+        android:background="@null"
         android:visibility="gone" />
 
     <ImageView
